@@ -1,4 +1,4 @@
-Up# MK
+# MK
 
 <a href="https://github.com/itz-MK-302/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/itz-MK-302?label=Followers&color=blue&style=flat-square"></a>
@@ -21,7 +21,6 @@ $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
 $ git clone https://github.com/itz-MK-302/MK302.git
-```
 ```python
 $ cd MK302
 $ python MK.py
